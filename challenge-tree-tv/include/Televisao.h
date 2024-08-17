@@ -1,8 +1,6 @@
-#include <iostream>
 #ifndef TELEVISAO_H // Diretiva de pré-processador para evitar múltiplas inclusões
 #define TELEVISAO_H
 
-using namespace std;
 
 class Televisao
 {
